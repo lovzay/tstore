@@ -11,16 +11,17 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  
-  
-#UTILITY PACKAGES#
-
-#Icons
-iconsax: ^0.0.8
-cupertino_icons: ^1.0.2
-
+  #UTILITY PACKAGES#
+  http: ^1.1.2
+  intl: ^0.19.0
+  logger: ^2.0.2+1
+  url_launcher: ^6.2.3
+  #Icons
+  iconsax: ^0.0.8
+  cupertino_icons: ^1.0.2
   #state management#
-get: ^4.6.6
+  get: ^4.6.6
+  get_storage: ^2.1.1
 
   #product specific
 
